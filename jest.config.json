@@ -1,0 +1,8 @@
+***REMOVED***
+  "snapshotSerializers": [
+    "enzyme-to-json/serializer"
+***REMOVED***,
+  "setupFiles": [
+    "<rootDir>/src/tests/setupTests.js"
+***REMOVED***
+***REMOVED***
