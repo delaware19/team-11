@@ -16,7 +16,6 @@ module.exports = (env) => ***REMOVED***
 
   return ***REMOVED***
     entry: ['babel-polyfill', './src/app.js'],
-    watch:true,
     output: ***REMOVED***
       path: path.join(__dirname, 'public', 'dist'),
       filename: 'bundle.js'
